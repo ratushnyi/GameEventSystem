@@ -3,7 +3,5 @@
   "displayName":"Game Events System",
   "version": "0.1",
   "unity": "2019.4",
-  "description": "Package for the AB-framework that includes a system of interaction between the player and the entities of the events",
-  "dependencies": {
-  }
+  "description": "Package for the AB-framework that includes a system of interaction between the player and the entities of the events"
 }
